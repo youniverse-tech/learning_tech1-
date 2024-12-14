@@ -1,0 +1,3 @@
+Hi This is Isha, I've created two files on visual studio code under the learning_tech1- folder.
+
+this file is test2.txt
